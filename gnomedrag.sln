@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "gnomedrag", "gnomedrag.csproj", "{F6F52828-6A9C-BB8D-5A3F-2ADC746115CD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "gnomedrag.Editor", "gnomedrag.Editor.csproj", "{2EB09A99-7ACF-886D-8C7D-B2B25145B997}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F6F52828-6A9C-BB8D-5A3F-2ADC746115CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6F52828-6A9C-BB8D-5A3F-2ADC746115CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6F52828-6A9C-BB8D-5A3F-2ADC746115CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6F52828-6A9C-BB8D-5A3F-2ADC746115CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2EB09A99-7ACF-886D-8C7D-B2B25145B997}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EB09A99-7ACF-886D-8C7D-B2B25145B997}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EB09A99-7ACF-886D-8C7D-B2B25145B997}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EB09A99-7ACF-886D-8C7D-B2B25145B997}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
